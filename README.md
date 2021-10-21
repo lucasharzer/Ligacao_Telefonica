@@ -7,3 +7,11 @@ Obs: Necessário fazer cadastro no site do Twilio para obter as informações do
 ```bash
 pip install twilio
 ```
+
+- Para executar o código no terminal:
+
+```bash
+ligação.py
+```
+
+O código será iniciado e quando terminiar a ligação ocorrerá.
